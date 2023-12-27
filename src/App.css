@@ -1,0 +1,77 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.headerSection{
+  display:flex;
+  justify-content:space-between
+  padding:20px;
+  background-color:darksalmon;
+  padding-top:20px;
+  
+}
+
+.center ul li{
+  display :inline-flex;
+  list-style : none;
+  margin :0px 20px;
+}
+.title{
+  flex:1;
+  padding:
+}
+.left{
+  flex:2;
+}
+.center{
+  flex:4;
+}
+.search{
+  flex:2;
+
+}
+
+.search input{
+  width:15rem
+  padding:10px;
+}
+.right{
+  flex:2;
+  display:inline-flex;
+  justify-content:space-between;
+  padding:0px 20px;
+}
+.bannerBox img{
+  width:100%;
+}
+.bannerSection{
+  margin:20px 0px;
+  
+}
+
+.menImg{
+  display:flex;
+  
+}
+
+.menImg img{
+  width:230px;
+  height:200px;
+  gap:10px;
+}
+
+.womenSection{
+  diplay:flex;
+}
+
+.gif img{
+  width:100%;
+}
+
+#t{ 
+  margin-top:10px;
+}
